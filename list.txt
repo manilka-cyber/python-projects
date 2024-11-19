@@ -1,0 +1,1 @@
+list2 = [("apple",50,7),("banana",30,20),("mango",60,10),("Carrot",70,10)]
